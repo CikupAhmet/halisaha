@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Dersler\site</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="anaSayfa.aspx">
+      <publishTime>01/11/2019 12:29:45</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>01/10/2019 21:06:55</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>01/10/2019 21:06:55</publishTime>
+    </File>
+    <File Include="bin/ASPSnippets.GoogleAPI.dll">
+      <publishTime>01/07/2019 20:57:35</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/07/2018 11:03:48</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>06/07/2018 11:03:48</publishTime>
+    </File>
+    <File Include="bin/Google.Authenticator.dll">
+      <publishTime>12/07/2016 16:16:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>06/27/2017 12:59:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/19/2018 15:44:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/19/2018 16:03:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>10/19/2018 19:17:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>10/19/2018 15:59:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/19/2018 16:01:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>10/19/2018 19:14:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.TelemetryCorrelation.dll">
+      <publishTime>09/05/2018 20:11:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>05/15/2018 13:29:40</publishTime>
+    </File>
+    <File Include="bin/WebApplication4.dll">
+      <publishTime>01/11/2019 17:00:41</publishTime>
+    </File>
+    <File Include="bin/WebApplication4.dll.config">
+      <publishTime>01/11/2019 11:47:31</publishTime>
+    </File>
+    <File Include="bin/WebApplication4.pdb">
+      <publishTime>01/11/2019 17:00:41</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.css">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.css">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.css">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.css.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.min.css">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.min.css.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.js">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.js">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.js.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.min.js">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.min.js.map">
+      <publishTime>01/09/2019 01:39:58</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>01/11/2019 16:46:15</publishTime>
+    </File>
+    <File Include="deneme1.aspx">
+      <publishTime>01/10/2019 21:09:53</publishTime>
+    </File>
+    <File Include="etkinlik.aspx">
+      <publishTime>01/11/2019 17:00:24</publishTime>
+    </File>
+    <File Include="etkinlik.css">
+      <publishTime>01/02/2019 02:22:10</publishTime>
+    </File>
+    <File Include="FacebookLogin.aspx">
+      <publishTime>01/11/2019 06:06:22</publishTime>
+    </File>
+    <File Include="google.js">
+      <publishTime>01/09/2019 00:41:36</publishTime>
+    </File>
+    <File Include="google2.js">
+      <publishTime>01/07/2019 20:37:31</publishTime>
+    </File>
+    <File Include="googleGiris.aspx">
+      <publishTime>01/07/2019 03:30:40</publishTime>
+    </File>
+    <File Include="GoogleLogin.aspx">
+      <publishTime>01/11/2019 05:35:29</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>01/09/2019 00:43:31</publishTime>
+    </File>
+    <File Include="HtmlPage2.html">
+      <publishTime>01/10/2019 05:05:24</publishTime>
+    </File>
+    <File Include="iletisim.aspx">
+      <publishTime>01/08/2019 05:38:51</publishTime>
+    </File>
+    <File Include="iletisim.css">
+      <publishTime>12/13/2018 06:49:44</publishTime>
+    </File>
+    <File Include="iletisim2.aspx">
+      <publishTime>12/17/2018 14:33:32</publishTime>
+    </File>
+    <File Include="iletisim2.css">
+      <publishTime>12/17/2018 12:43:12</publishTime>
+    </File>
+    <File Include="images/2170088.jpg">
+      <publishTime>12/16/2018 19:41:34</publishTime>
+    </File>
+    <File Include="images/anasayfabanner.jpg">
+      <publishTime>12/07/2018 15:49:32</publishTime>
+    </File>
+    <File Include="images/asdas.png">
+      <publishTime>12/12/2018 04:22:16</publishTime>
+    </File>
+    <File Include="images/banner2.jpg">
+      <publishTime>12/15/2018 02:41:08</publishTime>
+    </File>
+    <File Include="images/baslama.jpg">
+      <publishTime>12/16/2018 19:50:12</publishTime>
+    </File>
+    <File Include="images/city222.jpg">
+      <publishTime>12/22/2018 19:56:38</publishTime>
+    </File>
+    <File Include="images/enarka.jpg">
+      <publishTime>12/16/2018 20:10:10</publishTime>
+    </File>
+    <File Include="images/etkinlik.jpg">
+      <publishTime>01/02/2019 01:36:46</publishTime>
+    </File>
+    <File Include="images/etkinlik2.jpg">
+      <publishTime>01/02/2019 01:40:58</publishTime>
+    </File>
+    <File Include="images/halisahafoto.jpg">
+      <publishTime>12/16/2018 19:33:38</publishTime>
+    </File>
+    <File Include="images/halısaha.jpeg">
+      <publishTime>12/07/2018 16:25:14</publishTime>
+    </File>
+    <File Include="images/halısahafoto.jpg">
+      <publishTime>12/16/2018 19:33:38</publishTime>
+    </File>
+    <File Include="images/halısahaöz1.jpg">
+      <publishTime>12/12/2018 00:44:16</publishTime>
+    </File>
+    <File Include="images/indir.jpg">
+      <publishTime>12/12/2018 04:20:48</publishTime>
+    </File>
+    <File Include="images/profilarkaplan.jpg">
+      <publishTime>12/08/2018 22:59:36</publishTime>
+    </File>
+    <File Include="images/profilfoto.jpg">
+      <publishTime>12/08/2018 22:43:52</publishTime>
+    </File>
+    <File Include="images/profilfoto2.jpg">
+      <publishTime>12/14/2018 19:29:16</publishTime>
+    </File>
+    <File Include="images/profilfoto3.jpg">
+      <publishTime>12/15/2018 01:56:22</publishTime>
+    </File>
+    <File Include="images/profilfoto3.png">
+      <publishTime>12/14/2018 19:33:02</publishTime>
+    </File>
+    <File Include="images/profilim.jpg">
+      <publishTime>12/07/2018 16:40:28</publishTime>
+    </File>
+    <File Include="images/rakipbul.jpg">
+      <publishTime>12/07/2018 16:33:12</publishTime>
+    </File>
+    <File Include="images/sityamk.jpg">
+      <publishTime>12/12/2018 04:26:06</publishTime>
+    </File>
+    <File Include="images/takimfoto3.png">
+      <publishTime>12/13/2018 06:20:04</publishTime>
+    </File>
+    <File Include="images/takımfoto.jpg">
+      <publishTime>12/13/2018 06:14:00</publishTime>
+    </File>
+    <File Include="images/takımfoto2.jpg">
+      <publishTime>12/13/2018 06:16:10</publishTime>
+    </File>
+    <File Include="images/takımfoto3.png">
+      <publishTime>12/13/2018 06:20:04</publishTime>
+    </File>
+    <File Include="images/takımlarrr.jpg">
+      <publishTime>12/16/2018 20:07:14</publishTime>
+    </File>
+    <File Include="images/takımım.jpg">
+      <publishTime>12/07/2018 16:10:48</publishTime>
+    </File>
+    <File Include="images/topadam.jpg">
+      <publishTime>12/16/2018 19:33:38</publishTime>
+    </File>
+    <File Include="images/yeniProfil.jpg">
+      <publishTime>12/12/2018 03:51:08</publishTime>
+    </File>
+    <File Include="images/yeniSoyunmaodası.jpg">
+      <publishTime>12/12/2018 04:14:00</publishTime>
+    </File>
+    <File Include="mainStyle.css">
+      <publishTime>01/11/2019 15:49:54</publishTime>
+    </File>
+    <File Include="Model1.edmx.diagram">
+      <publishTime>12/21/2018 03:12:06</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/10/2019 21:06:55</publishTime>
+    </File>
+    <File Include="profilDüzenle.aspx">
+      <publishTime>01/06/2019 01:56:57</publishTime>
+    </File>
+    <File Include="profilDüzenleme.css">
+      <publishTime>12/17/2018 12:48:56</publishTime>
+    </File>
+    <File Include="profilim.aspx">
+      <publishTime>01/09/2019 05:30:53</publishTime>
+    </File>
+    <File Include="profilimStyle.css">
+      <publishTime>01/09/2019 02:38:29</publishTime>
+    </File>
+    <File Include="rakipBul.aspx">
+      <publishTime>01/11/2019 16:08:20</publishTime>
+    </File>
+    <File Include="rakipBul.css">
+      <publishTime>01/11/2019 08:21:07</publishTime>
+    </File>
+    <File Include="rezervasyon.aspx">
+      <publishTime>01/11/2019 07:53:01</publishTime>
+    </File>
+    <File Include="rezervasyon.js">
+      <publishTime>01/11/2019 02:11:37</publishTime>
+    </File>
+    <File Include="rezervasyonstyle.css">
+      <publishTime>01/11/2019 15:37:10</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>12/07/2018 02:49:50</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>12/07/2018 02:49:50</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>01/09/2019 03:09:21</publishTime>
+    </File>
+    <File Include="sweetalert.js">
+      <publishTime>12/28/2018 03:10:57</publishTime>
+    </File>
+    <File Include="sweetalert2.css">
+      <publishTime>12/28/2018 03:31:27</publishTime>
+    </File>
+    <File Include="takimPage.aspx">
+      <publishTime>01/11/2019 15:51:11</publishTime>
+    </File>
+    <File Include="takimPage.css">
+      <publishTime>01/11/2019 15:41:45</publishTime>
+    </File>
+    <File Include="takımolusturma.css">
+      <publishTime>01/11/2019 13:42:41</publishTime>
+    </File>
+    <File Include="uyeOlma.aspx">
+      <publishTime>01/11/2019 03:24:16</publishTime>
+    </File>
+    <File Include="uyeOlmastyle.css">
+      <publishTime>01/11/2019 10:27:29</publishTime>
+    </File>
+    <File Include="VB.aspx">
+      <publishTime>01/07/2019 21:10:50</publishTime>
+    </File>
+    <File Include="VB.aspx.vb">
+      <publishTime>01/07/2019 21:10:50</publishTime>
+    </File>
+    <File Include="veritabani.js">
+      <publishTime>01/09/2019 00:41:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/11/2019 13:50:41</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>01/07/2019 22:14:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

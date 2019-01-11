@@ -1,0 +1,143 @@
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\eser\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\ESER\YandexDisk\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+E:\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+E:\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+E:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+E:\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+E:\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+E:\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+E:\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+E:\WebApplication4\WebApplication4\bin\WebApplication4.dll
+E:\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+E:\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+E:\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+E:\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+E:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+E:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+E:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+E:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+E:\WebApplication4\WebApplication4\bin\EntityFramework.dll
+E:\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+E:\WebApplication4\WebApplication4\bin\EntityFramework.xml
+E:\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+D:\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+D:\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+D:\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+D:\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+D:\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+D:\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\WebApplication4\WebApplication4\bin\System.Diagnostics.DiagnosticSource.dll
+D:\WebApplication4\WebApplication4\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\WebApplication4\WebApplication4\bin\System.Diagnostics.DiagnosticSource.xml
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb

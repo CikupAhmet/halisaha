@@ -1,0 +1,207 @@
+﻿body {
+    background-color: #fff;
+    font-family:'Trebuchet MS', Arial, 'Comic Sans MS';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    color: #a3d156;
+}
+
+.wrapper{
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header{
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: #333;
+
+}
+
+header .logo{
+    float:left;
+    width: 89px;
+    height: 45px;
+    text-align:center;
+    line-height: 45px;
+    color:red;
+}
+
+header .nav{
+    float: left;
+    width: 871px;
+    height: 45px;
+    line-height: 45px;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.banner{
+    float: left;
+    width: 960px;
+    height: 590px;
+}
+.banner .halısahadurumu{
+    float: left;
+    width: 670px;
+    height: 590px;
+    background-color: #fff;
+}
+
+.banner .halısahaözellik .fotograf{
+    float: left;
+    width: 248px;
+    height: 180px;
+    margin: 20px;
+    background-image: url("images/halısahaöz1.jpg");
+    background-size: cover;
+}
+.banner .halısahaözellik{
+    float: left;
+    width: 288px;
+    height: 590px;
+    background-color: #fff;
+    border: 1px solid #000000;
+}
+
+.banner .halısahaözellik .özellikler{
+    float: left;
+    width: 266px;
+    height: 135px;
+    margin: 10px;
+    list-style: none;
+}
+
+.banner .halısahaözellik .özellikler .sol{
+    float: left;
+    width: 133px;
+    height: 150px;
+
+}
+
+.banner .halısahaözellik .özellikler .sağ{
+    float: right;
+    width: 133px;
+    height: 150px;
+}
+
+.banner .halısahadurumu .tarihbilgi{
+    float: left;
+    width: 670px;
+    height: 60px;
+    background-color: #fff;
+
+}
+.banner .halısahadurumu .durum {
+    float:left;
+    width: 670px;
+    height:530px;
+}
+.banner .halısahadurumu .durum .table{
+    float: left;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+    border-collapse: collapse;
+    width: 670px;
+    height: 530px;
+}
+
+.banner .halısahadurumu .durum .table .th{
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.banner .halısahadurumu .durum .table .td{
+    border: 1px solid #dddddd;
+    padding: 3px;
+    text-align: center;
+
+}
+.banner .halısahadurumu .durum .table .button{
+    float: left;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 17px;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 40px;
+}
+
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+input[type=checkbox] + label {
+  display: block;
+  margin: 0.2em;
+  cursor: pointer;
+  padding: 0.2em;
+}
+
+input[type=checkbox] {
+   display: none;
+}
+
+input[type=checkbox] + label:before {
+  content: "\2714";
+  border: 0.1em solid #000;
+  border-radius: 0.2em;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  padding-left: 0.2em;
+  padding-bottom: 0.3em;
+  margin-right: 0.2em;
+  vertical-align: bottom;
+  color: transparent;
+  transition: .2s;
+}
+
+input[type=checkbox] + label:active:before {
+  transform: scale(0);
+}
+
+input[type=checkbox]:checked + label:before {
+  background-color: MediumSeaGreen;
+  border-color: MediumSeaGreen;
+  color: #fff;
+}
+
+input[type=checkbox]:disabled + label:before {
+  transform: scale(1);
+  border-color: #aaa;
+}
+
+input[type=checkbox]:checked:disabled + label:before {
+  transform: scale(1);
+  background-color: MediumSeaGreen;
+  border-color: #bfb;
+}
+
+

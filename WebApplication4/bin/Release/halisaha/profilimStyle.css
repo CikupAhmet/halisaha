@@ -1,0 +1,179 @@
+﻿body {
+    background-color: #fff;
+    font-family:'Trebuchet MS', Arial, 'Comic Sans MS';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    color: #a3d156;
+}
+
+.wrapper{
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header{
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: #333;
+
+}
+
+header .logo{
+    float:left;
+    width: 89px;
+    height: 45px;
+    text-align:center;
+    line-height: 45px;
+    color:red;
+}
+
+header .nav{
+    float: left;
+    width: 871px;
+    height: 45px;
+    line-height: 45px;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.banner{
+    float: left;
+    width:960px;
+    height:700px;
+    background-size: cover;
+
+}
+.banner .bilgiler{
+    float: left;
+    width: 960px;
+    height: 700px;
+    background-image: url('images/profilarkaplan.jpg');
+    background-size: cover;
+}
+
+.banner .bilgiler .baslikprofil{
+    float: left;
+    width: 740px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+
+.banner .bilgiler .ozellik{
+    float: left;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.banner .bilgiler .ozellik .h2oz{
+    margin-top: 20px;
+    color: #fff;
+
+}
+
+.banner .bilgiler .ozellik .box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 700px;
+    height: 520px;
+    padding: 40px;
+    background: rgba(0,0,0,.8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 10px;
+    
+}
+.banner .bilgiler .box .profilfoto{
+    float: right;
+    width: 180px;
+    height: 190px;
+    background-image: url('/images/profilfoto3.jpg');
+    background-size: cover;
+}
+
+.banner .bilgiler .box .deneme{
+    width:60%;
+    margin-left:15px;
+    font-size:30px;
+}
+.banner .bilgiler .box .btndüzenle{
+    float: right;
+    width: 120px;
+    height: 40px;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+    border-radius: 8px;
+}
+
+.banner .bilgiler .box .btndüzenle2{
+    float:left ;
+    margin-left:220px;
+    width: 120px;
+    height: 40px;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+    border-radius: 8px;
+}
+.banner .bilgiler .box .btndüzenle:hover{
+    background-color: #3e8e41;
+}
+
+.banner .bilgiler .ozellik .box .input{
+    
+    border: none;
+    outline: none;
+    color: #fff;
+    
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.banner .bilgiler .ozellik .box .input2{
+    
+    border: none;
+    outline: none;
+    color: #fff;
+    
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 10px;
+    height:40px;
+}

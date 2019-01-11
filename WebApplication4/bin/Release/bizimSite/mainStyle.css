@@ -1,0 +1,167 @@
+﻿body {
+    background-color: #f2f2f2;
+    font-family:'Trebuchet MS', Arial, 'Comic Sans MS';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    color: #a3d156;
+}
+
+.wrapper{
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header{
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: #333;
+
+}
+
+header .logo{
+    float:left;
+    width: 89px;
+    height: 45px;
+    text-align:center;
+    line-height: 45px;
+    color:red;
+}
+
+header .nav{
+    float: left;
+    width: 870px;
+    height: 45px;
+    line-height: 45px;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    float: left;
+    margin-left: 15px;
+}
+wrapper .nav .ul .li .profilBtn{
+    background-color:none;
+}
+
+.wrapper .banner{
+    float: left;
+    width: 960px;
+    height: 684px;
+    background-image: url('/images/anasayfabanner.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.banner .box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 600px;
+    height: 500px;
+    padding: 40px;
+    margin-top:30px;
+    background: rgba(0,0,0,.8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+
+.banner .box .takım{
+    float:left;
+    width:250px;
+    height:200px;
+    
+}
+
+.banner .box .halısaha{
+    float:right;
+    width:250px;
+    height:200px;
+    
+}
+
+.banner .box .rakip{
+    float:left;
+    width:250px;
+    height:200px;
+    margin-top:25px;
+    
+}
+
+.banner .box .profil{
+    float:right;
+    width:250px;
+    height:200px;
+    margin-top:25px;
+    
+}
+
+.banner .box .takım .btntakımım{
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    margin-top:13px;
+    margin-left:25px;
+    font-size: medium;
+    color: #fbf6f6;
+    background-color: #ce7130;
+    background-image: url(images/2170088.jpg);
+}
+
+.banner .box .halısaha .btnhalısaha{
+    float: right;
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    margin-top:13px;
+    margin-right:25px;
+    font-size: medium;
+    color: #fbf6f6;
+    background-color: #ce7130;
+    background-image: url('/images/halısahafoto.jpg');
+}
+
+.banner .box .rakip .btnrakipbul{
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    margin-top:13px;
+    margin-left:25px;
+    font-size: medium;
+    color: #fbf6f6;
+    background-color: #ce7130;
+    background-image: url('/images/baslama.jpg');
+}
+
+.banner .box .profil .btnprofilim{
+    float: right;
+     width: 200px;
+    height: 150px;
+    background-size: cover;
+    margin-top:13px;
+    margin-right:25px;
+    font-size: medium;
+    color: #fbf6f6;
+    background-color: #ce7130;
+    background-image: url('/images/profilim.jpg');
+}

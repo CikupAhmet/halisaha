@@ -1,0 +1,184 @@
+﻿body {
+    background-color: #fff;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+    a:hover {
+        color: #a3d156;
+    }
+
+.wrapper {
+    width: 960px;
+    height: 700px;
+    margin: 0 auto;
+    background-image:url(images/etkinlik2.jpg);
+    background-size:cover;
+}
+
+header {
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: #333;
+}
+
+    header .logo {
+        float: left;
+        width: 89px;
+        height: 45px;
+        text-align: center;
+        line-height: 45px;
+        color: red;
+    }
+
+    header .nav {
+        float: left;
+        width: 871px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    header nav ul {
+        list-style: none;
+    }
+
+        header nav ul li {
+            float: left;
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+
+.takimYorum {
+    float:left;
+    width:480px;
+    height:700px;   
+    
+}
+
+.wrapper .takimYorum .box {
+    position: absolute;
+    float:left;
+    margin-left:250px;
+    margin-top:250px;
+    transform: translate(-50%,-50%);
+    width: 375px;
+    height: 350px;
+    padding: 40px;
+    background: rgba(0,0,0,.8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+
+.takimYorum .yorumDalga {
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 50px;
+    text-align: "center";
+}
+.oyuncuYorum{
+    float:right;
+    width:480px;
+    height:700px;
+     
+}
+
+.wrapper .oyuncuYorum .box2 {
+    position: absolute;
+    float:right;
+    margin-top:250px;
+    margin-left:250px;
+    transform: translate(-50%,-50%);
+    width: 375px;
+    height: 350px;
+    padding: 40px;
+    background: rgba(0,0,0,.8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+.oyuncuYorum .yorumDalga2 {
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 50px;
+    text-align: "center";
+}
+
+.takimYorum .takimİsim {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.oyuncuYorum .oyuncuİsim {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.takimYorum .btnYorum {
+    margin-right:10px;
+    margin-top:10px;
+    float: right;
+    width: 120px;
+    height: 40px;
+    background-color: #4CAF50;
+    font-family: 'Trebuchet MS',Arial,'Comic Sans MS';
+    border-radius: 8px;
+}
+
+.takimYorum .btnYorum:hover {
+    background-color: #3e8e41;
+}
+
+.oyuncuYorum .btnYorum2 {
+    margin-right:10px;
+    margin-top:10px;
+    float: right;
+    width: 120px;
+    height: 40px;
+    background-color: #4CAF50;
+    font-family: 'Trebuchet MS',Arial,'Comic Sans MS';
+    border-radius: 8px;
+}
+.oyuncuYorum .btnYorum2:hover {
+    background-color: #3e8e41;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+    padding: 8px;
+}
+
+td {
+    text-align: center;
+    padding: 8px;
+    color: black;
+}
+
+tr {
+    background-color: #cccccc;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}

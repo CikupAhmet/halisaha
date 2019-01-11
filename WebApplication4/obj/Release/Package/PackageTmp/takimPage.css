@@ -1,0 +1,244 @@
+﻿body {
+    background-color: #fff;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+    a:hover {
+        color: #a3d156;
+    }
+
+.wrapper {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header {
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: #333;
+}
+
+header .logo {
+    float: left;
+    width: 89px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    color: red;
+}
+
+header .nav {
+     float: left;
+     width: 870px;
+     height: 45px;
+     line-height: 45px;
+
+}
+
+ header nav ul {
+     list-style: none;
+ }
+
+     header nav ul li {
+         float: left;
+         margin-left: 15px;
+     }
+
+.banner {
+    float: left;
+    width: 960px;
+    height: 664px;
+    color: #fff;
+}
+
+.banner .takımbilgi {
+    float: left;
+    width: 598px;
+    height: 248px;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+    background-image: url(images/takimfoto3.png);
+    background-size: cover;
+}
+
+.banner .takımbilgi .takimText {
+    margin-left: 50px;
+    margin-top: 35px;
+    font-size: 20px;
+    border: 3px solid #333;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.banner .takımbilgi .takımolusturbtn {
+    float: left;
+    width: 120px;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-top: 110px;
+    margin-left: 180px;
+}
+
+.banner .takımbilgi .takımolusturbtn:hover {
+    background-color: #3e8e41;
+}
+
+.banner .takımbilgi .foto .takımfoto {
+    float: right;
+    width: 180px;
+    height: 180px;
+    opacity: 0;
+}
+
+.banner .takımbilgi .foto {
+    float: right;
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    margin-top: 35px;
+    margin-right: 50px;
+    background-image: url(images/profilfoto2.jpg);
+}
+
+.banner .takımliste {
+    float: left;
+    width: 598px;
+    height: 338px;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+}
+
+.banner .oyunculistesi {
+    float: right;
+    width: 358px;
+    height: 590px;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+}
+
+.banner .oyunculistesi .arama {
+    float: left;
+    width: 310px;
+    height: 28px;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+}
+
+.banner .oyunculistesi .aramabtn {
+    float: right;
+    width: 48px;
+    height: 28px;
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.banner .textSilme {
+    background-color: #f2f2f2;
+    width: 120px;
+    height: 45px;
+    font-size: 15px;
+    color: #333;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #333;
+    margin-top: 5px;
+}
+
+.banner .oyuncuSil {
+    float: right;
+    width: 120px;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.banner .oyuncuSil:hover {
+    background-color: #3e8e41;
+}
+
+.banner .oyunculistesi .butonEkle {
+    float: left;
+    width: 120px;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-left: 200px;
+}
+
+
+.banner .oyunculistesi .butonEkle:hover {
+    background-color: #3e8e41;
+}
+
+
+.checkboxgroup {
+    float: left;
+    width: 20em;
+    overflow: auto;
+    color: black;
+}
+
+.checkboxgroup p {
+    width: 349px;
+    text-align: center;
+    border-bottom: 2px solid #333;
+    font-family: 'Trebuchet MS', Arial, 'Comic Sans MS';
+    font-size: 20px;
+    margin: 5px;
+}
+
+.checkboxgroup label {
+    width: 12em;
+    float: left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #c24444;
+    margin-top: 3px;
+    margin-left: 40px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    text-align: left;
+    padding: 8px;
+    color: black;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
